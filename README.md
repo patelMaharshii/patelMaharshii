@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey there, my name is Maharshii Patel and welcome to my GitHub profile!<br>I'm an aspiring and ambitious software engineer specializing in data science, ML, & AI.<br>
+Hey there, my name is Maharshii Patel and welcome to my GitHub profile!
+<br>I'm an aspiring and ambitious software engineer specializing in data science, ML, & AI.<br>
 
 
 ## 🌐 Socials:
