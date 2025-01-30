@@ -1,6 +1,11 @@
 # 💫 About Me:
 Hey there, my name is Maharshii Patel and welcome to my GitHub profile!
 <br>I'm an aspiring and ambitious software engineer specializing in data science, ML, & AI.<br>
+<br>I'm currently working on 3 main projects which are listed below<br>
+<br>  1. A fullstack reservation app which is to be implemented in real restaurants soon<br>
+<br>  2. A sports betting application which will tell you the predicted statistics of a player in their next game<br>
+<br>  3. A research project under professor Apurva Narayan to improve efficieny of handoffs within hospitals<br>
+<br> * Note that these project repositories aren't public, but if you have any questions about them feel free to reach out!<br>
 
 
 ## 🌐 Socials:
