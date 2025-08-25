@@ -5,7 +5,7 @@ Hey there, my name is Maharshii Patel and welcome to my GitHub profile!
 <br>  1. Working under a biotech startup to research and develop In Silico SELEX methods for protein and DNA sequence generation<br>
 <br>  2. Developing a market prediction model which uses both a supervised training approach for already available data and reinforcement learning model for incoming data<br>
 <br>  3. A research project under professor Apurva Narayan to improve efficieny of handoffs within hospitals<br>
-<br> * Note that these project repositories aren't public, but if you have any questions about them feel free to reach out!<br>
+<br> * Note that not all these project repositories aren't public, but if you have any questions about them feel free to reach out!<br>
 
 
 ## 🌐 Socials:
