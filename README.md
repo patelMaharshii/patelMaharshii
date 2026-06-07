@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey there, my name is Maharshii Patel and welcome to my GitHub profile!
-<br>I'm a machine learning engineer.<br>
+<br>I'm a machine learning compiler engineer. I also have a focus on HPC engineering.<br>
+<br>Currently, I am working at AMD as a software developer on the ROCm Community and various other AMD projects.<br>
 <br>Feel free to reach out to me using my socials below!<br>
 
 
